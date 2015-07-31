@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sahana Vesuvius
 
 
@@ -38,3 +39,7 @@ Optimized for family reunification and assisting with hospital triage, Vesuviusâ
   - Enable apache2 mod rewrite using the command ```sudo a2enmod rewrite```
   - ```/etc/apache2/apache2.conf``` file needs to have ```AllowOverride``` set to ```All``` under the ```DocumentRoot``` section
 - You might also need to edit the php.ini in your Apache PHP installation and set the ```short_open_tags``` option to ```On```. 
+=======
+# PeopleLocator
+People Locator para Taller de Agilidad
+>>>>>>> 4805950e659edf6b3fa8cfb88440452bea3c9124
